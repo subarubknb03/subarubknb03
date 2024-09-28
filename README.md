@@ -9,6 +9,9 @@ I major in organic chemistry.
   </a>
 </p>
 
+## Web cites
+[Koki Ozawa - My portal - researchmap](https://researchmap.jp/koki_ozawa?lang=ja)
+
 <!--
 **subarubknb03/subarubknb03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
