@@ -1,28 +1,43 @@
 ## Hi there 👋
+I'm Koki Ozawa.  
 I'm a graduate student.  
 I major in organic chemistry.  
 
 ## Skills
+### Level ★★★★★  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,docker,git,github,rust,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=py" />
   </a>
 </p>
 
-## Web cites
+### Level ★★★★☆
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker" />
+  </a>
+</p>
+
+### Level ★★★☆☆
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,fastapi,html" />
+  </a>
+</p>
+
+### Level ★★☆☆☆
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,js,postgresql,sqlite,c,rust" />
+  </a>
+</p>
+
+### Level ★☆☆☆☆
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react" />
+  </a>
+</p>
+
+# Web cites
 [Koki Ozawa - My portal - researchmap](https://researchmap.jp/koki_ozawa?lang=ja)
-
-<!--
-**subarubknb03/subarubknb03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
