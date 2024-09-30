@@ -40,5 +40,5 @@ I major in organic chemistry.
 </p>
 
 ## Web cites
-[Koki Ozawa - My portal - researchmap](https://researchmap.jp/koki_ozawa?lang=ja)
-[Koki Ozawa](https://subarubknb03.github.io/)
+[Koki Ozawa - My portal - researchmap](https://researchmap.jp/koki_ozawa?lang=ja)  
+[Koki Ozawa](https://subarubknb03.github.io/)  
