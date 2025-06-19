@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Koki Ozawa.  
-I'm a graduate student.  
+I'm a Ph.D. student.  
 I major in organic chemistry.  
 
 ## Skills
